@@ -1,0 +1,202 @@
+.container {
+  width: 1439px;
+  height: 2554px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.pirveli {
+  width: 100%;
+  height: 800px;
+  display: flex;
+}
+.meore {
+  width: 1110px;
+  height: 1150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.footer {
+  width: 1440px;
+  height: 244px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.teqstebi {
+  width: 350px;
+  height: 280px;
+}
+.tavsarti {
+  font-family: Big Shoulders Display;
+  font-size: 60px;
+  font-weight: 900;
+  line-height: 60px;
+  text-align: left;
+  color: rgba(21, 21, 21, 1);
+  text-transform: uppercase;
+}
+.qvesarti {
+  font-family: Outfit;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  color: rgba(68, 68, 68, 1);
+}
+.foto {
+  width: 635px;
+  height: 400px;
+}
+.zeda {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.foto2 {
+  width: 635px;
+  height: 720px;
+}
+.foto3 {
+  width: 445px;
+  height: 313px;
+}
+.qveda {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.saunje {
+  width: 445px;
+  height: 377px;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.tavsarti2 {
+  font-family: Big Shoulders Display;
+  font-size: 60px;
+  font-weight: 900;
+  line-height: 60px;
+  text-align: left;
+  width: 350px;
+  height: 90px;
+}
+.qvesarti2 {
+  font-family: Outfit;
+  font-size: 22px;
+  font-weight: 200;
+  line-height: 32px;
+  text-align: left;
+  width: 350px;
+  height: 96px;
+}
+.marjvena {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ufuteresi {
+  width: 1110px;
+  height: 84px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.shexede_artia {
+  font-family: Outfit;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 28px;
+  text-align: left;
+  color: white;
+  width: 430px;
+  margin-top: -5px;
+}
+.socials {
+  width: 100px;
+  height: 20px;
+}
+.gaLeria {
+  width: 159.57px;
+  height: 58px;
+}
+.shavishavidashaviii {
+  background-color: rgba(21, 21, 21, 1);
+  width: 450px;
+  height: 799px;
+}
+.bebo {
+  width: 540px;
+  height: 800px;
+}
+.galeri_tbilisi {
+  position: absolute;
+  width: 514px;
+  height: 176px;
+  top: 189px;
+  left: 165px;
+  font-family: Big Shoulders Display;
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 88px;
+  text-align: left;
+  color: white;
+}
+.esaisa {
+  width: 350px;
+  height: 160px;
+  top: 190px;
+  left: 925px;
+  font-family: Outfit;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  position: absolute;
+}
+.but {
+  width: 204px;
+  height: 72px;
+  background-color: rgba(21, 21, 21, 1);
+  font-family: Big Shoulders Display;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 23.94px;
+  letter-spacing: 3.6363637447357178px;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.buttonebi {
+  display: flex;
+  position: absolute;
+  top: 414px;
+  left: 925px;
+}
+.oni {
+  width: 56px;
+  height: 72px;
+  background-color: rgba(213, 150, 108, 1);
+  border: none;
+  cursor: pointer;
+}
+.but.hover {
+  background-color: rgba(213, 150, 108, 1);
+  transition-duration: 400ms;
+}
+.oni.hover {
+  background-color: black;
+  transition-duration: 400ms;
+}

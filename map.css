@@ -1,0 +1,123 @@
+.container {
+  height: 1400px;
+  width: 1440px;
+}
+.pirveli {
+  width: 1440.9px;
+  height: 600px;
+  position: relative;
+}
+.meore {
+  height: 548px;
+  background-color: rgba(21, 21, 21, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mesame {
+  height: 244px;
+  background-color: rgba(213, 150, 108, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pini {
+  position: absolute;
+  right: 48%;
+  top: 43%;
+}
+.shua {
+  width: 1110px;
+  height: 316px;
+  display: flex;
+  justify-content: space-between;
+}
+.medoki {
+  font-family: Big Shoulders Display;
+  font-size: 55px;
+  font-weight: 900;
+  line-height: 50px;
+  text-align: left;
+  color: white;
+}
+.lokacia {
+  color: white;
+  width: 540px;
+}
+.street {
+  font-family: Big Shoulders Display;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(213, 150, 108, 1);
+}
+.address {
+  font-family: Outfit;
+  font-size: 22px;
+  font-weight: 200;
+  line-height: 32px;
+  text-align: left;
+}
+.ragaca {
+  font-family: Outfit;
+  font-size: 22px;
+  font-weight: 200;
+  line-height: 32px;
+  text-align: left;
+}
+.ufuteresi {
+  width: 1110px;
+  height: 84px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.shexede_artia {
+  font-family: Outfit;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: black;
+  width: 430px;
+  margin-top: -5px;
+}
+.but {
+  width: 204px;
+  height: 72px;
+  background-color: rgba(21, 21, 21, 1);
+  font-family: Big Shoulders Display;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 23.94px;
+  letter-spacing: 3.6363637447357178px;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.buttonebi {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 156px;
+}
+.oni {
+  width: 56px;
+  height: 72px;
+  background-color: rgba(213, 150, 108, 1);
+  border: none;
+  cursor: pointer;
+}
+.but.hover {
+  background-color: rgba(213, 150, 108, 1);
+  transition-duration: 400ms;
+}
+.oni.hover {
+  background-color: black;
+  transition-duration: 400ms;
+}
