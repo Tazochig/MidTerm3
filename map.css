@@ -121,3 +121,177 @@
   background-color: black;
   transition-duration: 400ms;
 }
+@media (max-width: 768px) {
+  .container {
+    width: 768px;
+    height: 1255px;
+  }
+  .pirveli {
+    width: 100%;
+  }
+  .foto {
+    width: 100%;
+    height: 100%;
+  }
+  .buttonebi {
+    left: 40px;
+  }
+  .meore {
+    width: 768px;
+    height: 436px;
+  }
+  .shua {
+    width: 689px;
+    height: 268px;
+    gap: 68px;
+  }
+  .medoki {
+    font-size: 55px;
+    font-weight: 900;
+    line-height: 50px;
+    text-align: left;
+    width: 223px;
+    height: 100px;
+  }
+  .street {
+    width: 350px;
+    height: 32px;
+    width: 350px;
+    height: 32px;
+  }
+  .address {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    width: 398px;
+    height: 84px;
+  }
+  .ragaca {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    width: 398px;
+    height: 112px;
+  }
+  .mesame {
+    width: 768px;
+    height: 216px;
+    top: 1036px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .shexede_artia {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    width: 281px;
+    height: 104px;
+  }
+  .break {
+    display: none;
+  }
+  .ufuteresi {
+    width: 689px;
+    height: 104px;
+  }
+}
+@media (max-width: 375px) {
+  .pirveli {
+    width: 375px;
+    height: 550px;
+  }
+  .buttonebi {
+    top: 0px;
+    left: 0px;
+  }
+  .foto {
+    width: 375px;
+    height: 550px;
+  }
+  .container {
+    width: 365px;
+    height: 1380px;
+  }
+  .meore {
+    width: 375px;
+    height: 493px;
+    /* flex-direction: column; */
+    align-items: baseline;
+  }
+  .mesame {
+    width: 375px;
+    height: 336px;
+  }
+  .shua {
+    flex-direction: column;
+    width: 343px;
+    height: 296px;
+    gap: 0px;
+  }
+  .medoki {
+    width: 343px;
+    height: 45px;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    text-align: left;
+  }
+  .street {
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 32px;
+    text-align: left;
+    text-underline-position: from-font;
+    width: 343px;
+    height: 32px;
+  }
+  .address {
+    width: 343px;
+    height: 84px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+  }
+  .ragaca {
+    width: 343px;
+    height: 140px;
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+  .breaki {
+    display: none;
+  }
+  .mesame {
+    width: 375px;
+    height: 336px;
+  }
+  .ufuteresi {
+    width: 311px;
+    height: 240px;
+    flex-direction: column;
+  }
+  .gaLeria {
+    width: 110.05px;
+    height: 40px;
+  }
+  .shexede_artia {
+    width: 311px;
+    height: 104px;
+    width: 311px;
+    height: 104px;
+  }
+  .lokacia {
+    width: 343px;
+    height: 296px;
+  }
+}
