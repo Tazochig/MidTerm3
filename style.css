@@ -200,3 +200,287 @@
   background-color: black;
   transition-duration: 400ms;
 }
+.null {
+  display: none;
+}
+@media (max-width: 768px) {
+  .container {
+    width: 768px;
+    height: 2287px;
+  }
+  .null {
+    display: none;
+  }
+  .shavishavidashaviii {
+    display: none;
+  }
+  .galeri_tbilisi {
+    font-size: 70px;
+    font-weight: 900;
+    line-height: 65px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: black;
+    top: 133px;
+    left: 398px;
+    width: 339px;
+    height: 130px;
+  }
+  .bebo {
+    width: 437px;
+    height: 700px;
+  }
+  .pirveli {
+    width: 766px;
+    height: 700px;
+  }
+  .foto {
+    width: 398px;
+    height: 400px;
+  }
+  .teqstebi {
+    width: 235px;
+  }
+  .zeda {
+    width: 689px;
+  }
+  .qvesarti {
+    width: 223px;
+    height: 140px;
+  }
+  .foto2 {
+    width: 398px;
+    height: 720px;
+  }
+  .qveda {
+    width: 689px;
+    height: 720px;
+  }
+  .foto3 {
+    width: 280px;
+    height: 313px;
+  }
+  .saunje {
+    width: 280px;
+    height: 396px;
+  }
+  .tavsarti2 {
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 223px;
+    height: 90px;
+    width: 223px;
+    height: 90px;
+  }
+  .qvesarti2 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 223px;
+    height: 112px;
+  }
+  .footer {
+    width: 98%;
+    height: 216px;
+  }
+  .gaLeria {
+    width: 110.05px;
+    height: 40px;
+  }
+  .shexede_artia {
+    width: 281px;
+    height: 104px;
+    font-family: Outfit;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+  .breaki {
+    display: none;
+  }
+  .ufuteresi {
+    width: 689px;
+    height: 104px;
+  }
+  .tavsarti {
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 223px;
+    height: 135px;
+  }
+  .qvesarti {
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 223px;
+    height: 140px;
+  }
+  .esaisa {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    width: 339px;
+    height: 112px;
+    top: 320px;
+    left: 398px;
+  }
+  .buttonebi {
+    left: 398px;
+    top: 500px;
+  }
+  .meore {
+    width: 689px;
+    height: 1131px;
+  }
+}
+@media (max-width: 375px) {
+  .container {
+    width: 375px;
+    height: 2811px;
+  }
+  .pirveli {
+    width: 375px;
+    height: 630px;
+  }
+  .bebo {
+    width: 375px;
+    height: 240px;
+  }
+  .galeri_tbilisi {
+    width: 343px;
+    height: 110px;
+    top: 242px;
+    left: 16px;
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 55px;
+  }
+  .esaisa {
+    width: 343px;
+    height: 112px;
+    top: 400px;
+    left: 16px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+  }
+  .buttonebi {
+    width: 260px;
+    height: 72px;
+    top: 560px;
+    left: 16px;
+  }
+  .meore {
+    width: 343px;
+    height: 1605px;
+  }
+  .zeda {
+    flex-direction: column-reverse;
+    width: 100%;
+  }
+  .foto {
+    width: 343px;
+    height: 320px;
+  }
+  .teqstebi {
+    width: 343px;
+    height: 223px;
+  }
+  .tavsarti {
+    width: 343px;
+    height: 90px;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+  }
+  .qvesarti {
+    width: 343px;
+    height: 112px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+  }
+  .qveda {
+    width: 100%;
+    height: 965px;
+    flex-direction: column;
+  }
+  .foto2 {
+    width: 343px;
+    height: 480px;
+  }
+  .foto3 {
+    width: 343px;
+    height: 200px;
+  }
+  .saunje {
+    width: 343px;
+    height: 293px;
+  }
+  .tavsarti2 {
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    text-align: left;
+    width: 295px;
+    height: 90px;
+  }
+  .qvesarti2 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    width: 295px;
+    height: 84px;
+  }
+  .footer {
+    width: 375px;
+    height: 336px;
+  }
+  .ufuteresi {
+    width: 311px;
+    height: 240px;
+    flex-direction: column;
+  }
+  .shexede_artia {
+    width: 311px;
+    height: 104px;
+    font-family: Outfit;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+  .marjvena {
+    height: 550px;
+  }
+  .qveda {
+    gap: 16px;
+  }
+  .null {
+    display: block;
+  }
+}
